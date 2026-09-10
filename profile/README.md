@@ -1,5 +1,7 @@
 # Sage Products
 
+<img src="SageBadge.png" alt="Sage Products" width="123">
+
 Sage Products is a division of **Greater Goods LLC**, developing kitchen products
 and the connected experiences that support them.
 
